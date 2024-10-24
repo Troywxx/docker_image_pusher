@@ -1,5 +1,6 @@
 nginx
 #支持私库
 cooderl/wewe-rss-sqlite:latest
+wangqiru/ttrss
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
