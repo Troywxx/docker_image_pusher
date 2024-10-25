@@ -8,7 +8,7 @@ cooderl/wewe-rss-sqlite:latest
 wangqiru/ttrss
 wangqiru/mercury-parser-api
 wangqiru/opencc-api-server
-postgres:16-alpine
+postgres:16
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
