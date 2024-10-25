@@ -1,6 +1,14 @@
 nginx
 #支持私库
-cooderl/wewe-rss-sqlite:latest
+
+#wewe-rss读取公众号文章
+cooderl/wewe-rss-sqlite:latest 
+
+#自建RSS:Tiny Tiny RSS
 wangqiru/ttrss
+wangqiru/mercury-parser-api
+wangqiru/opencc-api-server
+postgres:16-alpine
+
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
