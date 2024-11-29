@@ -1,6 +1,8 @@
 nginx
 #支持私库
 
+hello-world
+
 #wewe-rss读取公众号文章
 cooderl/wewe-rss-sqlite:latest 
 
